@@ -232,3 +232,9 @@ Well. If you have read here, maybe you have been interested in Zorro. It you wan
 - write a component with [yeoman generator: zorro](https://github.com/zorro-html/zorro-generator)
 - fix a bug or support more browsers, and send pull request to us
 - [write issue](https://github.com/zorro-html/zorro/issues) to report a bug or suggestion
+
+## License
+
+[MIT](http://opensource.org/licenses/MIT)
+
+Copyright (c) 2015 Jinjiang
