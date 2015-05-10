@@ -1,0 +1,22 @@
+{
+  "name": "zorro",
+  "version": "1.0.0",
+  "description": "A collection of web components to easily use",
+  "main": "zorro.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zorro-html/zorro.git"
+  },
+  "keywords": [
+    "webcomponents"
+  ],
+  "author": "Jinjiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zorro-html/zorro/issues"
+  },
+  "homepage": "https://github.com/zorro-html/zorro"
+}
